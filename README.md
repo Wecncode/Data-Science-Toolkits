@@ -7,4 +7,4 @@ A Data Science Repository for learners looking for DS resources. In this repo, y
 For any additional resources, sign up on www.wecncode.com to get exclusive access to webinars, tutorials and more. 
 
 # Author
-Lana Louphul (Data Scientist, MIT)
+ *Lana Louphul (Data Scientist, MIT)*
