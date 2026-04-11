@@ -1,10 +1,9 @@
 # Wecncode Data-Science-Toolkits
-A Data Science Repository for learners looking for DS resources. In this repo, you will find resources on: 
-   <li>Cheatsheets on popular Python Libraries </li>
-   <li>Complilation of data manipulation and visualization tools </li>
-
+## This is Wecncode DS101. 
+This repository is designed to bridge the gap between software engineering and data science.
+The DS101 Philosophy: We don't just import pandas or import sklearn on day one. First, we build the wheel so we understand how it turns. Then, we use the sports car.
 # Additional Resources
 For any additional resources, sign up on www.wecncode.com to get exclusive access to webinars, tutorials and more. 
 
 # Author
- *Lana Louphul, AI/ML Researcher*
+ *Lana Louphul, Wecncode DS Mentor*
