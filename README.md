@@ -6,4 +6,4 @@ The DS101 Philosophy: We don't just import pandas or import sklearn on day one. 
 For any additional resources, sign up on www.wecncode.com to get exclusive access to webinars, tutorials and more. 
 
 # Author
- *Lana Louphul, Wecncode DS Mentor*
+ *Lana Louphul, Wecncode*
